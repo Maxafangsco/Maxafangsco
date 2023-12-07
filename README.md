@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on PL/SQL and mongoDB
+- 🌱 I’m currently learning C# and .NET framework
+- 👯 I’m looking to collaborate on NextJS Projects
+- 🤔 I’m looking for help with Mechine learning and AI
+- 💬 Ask me about Javascript, c#, Java and Databases (SQL, NOSQL AND PL/SQL)
+- 📫 How to reach me: maxafangsco@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Loves watching funny videos
 -->
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 #### I am called: Maxmillian
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Software Developer, Engineer.
 - 💻 Goal: Landing a developer job which can give me a platform to add value to my society while improving my skills and becoming a valuable human asset!
 - 🔭 I'm currently studying in the freecodecamp Program, working part-time as Mentor.
-- 🌱 Learning Ruby on Javascript, Vue and React.
+- 🌱 Learning c# and .Net core, Mongodb and PL/SQL.
 - 🔊 Very communicative and proactive and excellent problem solving skills.
 - ⚡ Fun fact: the only things I like more than talking are playing and listening to music.
 
