@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**happiguru/happiguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,8 +23,8 @@ Here are some ideas to get you started:
 - 🔊 Very communicative and proactive and excellent problem solving skills.
 - ⚡ Fun fact: the only things I like more than talking are playing and listening to music.
 
-<!-- ![Stanley's github stats](https://github-readme-stats.vercel.app/api?username=happiguru&show_icons=true&hide_border=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happiguru&layout=compact&theme=vue" /> -->
+<!-- ![Maxafangsco's github stats](https://github-readme-stats.vercel.app/api?username=maxafangsco&show_icons=true&hide_border=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxafangsco&layout=compact&theme=vue" /> -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxafangsco&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="maxafangsco" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxafangsco&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="maxafangsco" />
 </p>
